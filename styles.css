@@ -1,12 +1,14 @@
 body {
 	background: black;
 	font-family: "Yellowtail", cursive;
+    display: flex;
 }
 .postcard {
 	background: white;
 	width: 400px;
 	height: 300px;
 	margin: auto;
+    margin-top: 20vh;
 }
 .postcard-header {
 	display: flex;
